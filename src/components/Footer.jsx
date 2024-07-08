@@ -31,10 +31,10 @@ export default function Footer() {
           </div>
           <ul>
             <li>
-              <span> +0213 456 987 </span>
+              <span> 62045956258 </span>
             </li>
             <li>
-              <span>kishansheth21@gmail.com</span>
+              <span>priyanka.singh.2k@gmail.com</span>
             </li>
             <li>
               <span>www.youtube.com</span>
@@ -67,7 +67,7 @@ export default function Footer() {
       </div>
       <div className="lower-footer">
         <span>
-          Copyright &copy; Travel. Designed by <a href="#">Kishan Sheth</a>
+          Copyright &copy; Travel. Designed by <a href="#">Priyanka Singh</a>
         </span>
       </div>
     </Container>
